@@ -1,6 +1,6 @@
 <h1 align="center">Pascale Merveille KAMDEM</h1>
 <p align="center"><b>Data Analyst · Data Scientist · IA générative</b><br>
-Mastère Data & IA à l'EFREI Paris (2026 – 2028) · bilingue français / anglais · mobile partout en France</p>
+Mastère Data Engineering & IA à l'EFREI Paris (2026 – 2028) · bilingue français / anglais · mobile partout en France</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/merveille-kamdem-562aa0284/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -28,6 +28,10 @@ Mastère Data & IA à l'EFREI Paris (2026 – 2028) · bilingue français / angl
 | 👻 [Operation Ghost-Check](https://github.com/MERVEILLEKAMDEM/ghostcheck-monitor) · [démo](https://merveillekamdem.github.io/ghostcheck-monitor/) | Audit de risques IA et cybersécurité d'une infrastructure critique, avec tableau de bord | Analyse de risques · HTML/JS |
 | 🗺️ [MAP-PROTECT](https://github.com/MERVEILLEKAMDEM/map-protect) | Carte interactive des lois protégeant femmes et enfants dans 20 pays | React · Express · PostgreSQL |
 | 📉 [Churn & Data Drift](https://github.com/MERVEILLEKAMDEM/Churn-Prediction) | Prédiction du churn face à des données qui dérivent, politiques de réentraînement (projet d'équipe) | scikit-learn · MLOps |
+
+### 🎓 Programme en cours – Mastère Data Engineering & IA, EFREI Paris (M1, 2026-2027)
+
+Data Science avec Python · Relational Databases · NoSQL Databases · Big Data Frameworks · Real Time Data Engineering · Datalakes & Data Integration · Data Visualisation · API et Web Services · Machine Learning & Deep Learning · Natural Language Processing · Projet IA Générative · Projet Data – Architecture de données
 
 ### 🛠️ Compétences
 
