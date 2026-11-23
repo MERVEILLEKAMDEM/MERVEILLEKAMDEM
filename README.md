@@ -12,7 +12,7 @@ Mastère Data & IA à l'EFREI Paris (2026 – 2028) · bilingue français / angl
 
 - 🔎 Je transforme des données brutes en décisions : **pipelines ETL, tableaux de bord, contrôles qualité et audit, machine learning, assistants IA**.
 - 🏦 Deux stages data chez **Afriland First Bank** (reporting et automatisation ETL/ELT), puis développeuse full-stack chez **Humanity Children Security**.
-- 🎓 Certifiée **Dataiku Advanced Designer** et **Core Designer**.
+- 🎓 Certifiée **Dataiku Advanced Designer** et **Core Designer**, certification **Qlik Sense** en préparation.
 - 🎯 Je cherche une **alternance** (2026 – 2028) ou un **stage de 6 mois** en data et IA.
 
 ### 🚀 Projets à la une
@@ -30,9 +30,20 @@ Mastère Data & IA à l'EFREI Paris (2026 – 2028) · bilingue français / angl
 
 ### 🛠️ Compétences
 
-**Data & IA** : Python (pandas, NumPy, scikit-learn), SQL, machine learning, deep learning, analyse statistique, RAG / LLM<br>
-**BI & outils** : Power BI, Dataiku, Excel, PowerPoint, Word, Suite Google, ERP Odoo<br>
-**Web** : JavaScript / TypeScript, React, Next.js, Node.js / Express, FastAPI, PostgreSQL, MongoDB
+| Domaine | Outils et savoir-faire |
+|---|---|
+| **Langages** | Python, SQL, JavaScript, TypeScript |
+| **Data engineering** | Pipelines ETL/ELT, préparation et qualité des données, contrôles de cohérence, automatisation des processus, PostgreSQL, MongoDB, modélisation relationnelle |
+| **Data science & IA** | pandas, NumPy, scikit-learn, analyse statistique, machine learning, deep learning (PyTorch, CNN), NLP, IA générative et LLM, RAG |
+| **BI & data visualisation** | Power BI, Tableau, SAP BI, Dataiku DSS, Excel avancé (tableaux croisés dynamiques), tableaux de bord et suivi de KPI · *Qlik Sense : certification en préparation* |
+| **Web & API** | Développement d'API REST, FastAPI, Node.js / Express, React, Next.js, JWT |
+| **DevOps & cloud** | Git, Docker, CI/CD, Linux, Cloud Computing |
+| **Risques & conformité** | Analyse de risques (PESTLEO, QQOQCCP, matrice de criticité), RGPD, NIS2 |
+| **Bureautique & ERP** | Excel, PowerPoint, Word, Teams, Suite Google, ERP Odoo |
+| **Méthodes** | Agile, documentation, tests fonctionnels |
+
+**Certifications** : Dataiku Advanced Designer · Dataiku Core Designer · *Qlik Sense (en cours)*<br>
+**Langues** : français et anglais (bilingue)
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
@@ -41,8 +52,12 @@ Mastère Data & IA à l'EFREI Paris (2026 – 2028) · bilingue français / angl
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Qlik%20Sense%20(en%20cours)-009848?logo=qlik&logoColor=white">
 <img src="https://img.shields.io/badge/Dataiku-2AB1AC?logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
 </p>
