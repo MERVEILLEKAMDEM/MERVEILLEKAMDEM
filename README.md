@@ -11,7 +11,7 @@ Mastère Data Engineering & IA à l'EFREI Paris (2026 – 2028) · bilingue fran
 ### 👋 En bref
 
 - 🔎 Je transforme des données brutes en décisions : **pipelines ETL, tableaux de bord, contrôles qualité et audit, machine learning, assistants IA**.
-- 🏦 Deux stages data chez **Afriland First Bank** (reporting et automatisation ETL/ELT), puis développeuse full-stack chez **Humanity Children Security**.
+- 🏦 Deux stages data chez **Afriland First Bank** (reporting et automatisation ETL/ELT), puis développeuse full-stack chez **PROCREATIVNESS** (projet MAP-PROTECT).
 - 🎓 Certifiée **Dataiku Advanced Designer** et **Core Designer**, certification **Qlik Sense** en préparation.
 - 🎯 Je cherche une **alternance** (2026 – 2028) ou un **stage de 6 mois** en data et IA.
 
